@@ -1,2 +1,2 @@
-#CounterGames
-##Welcome to the CounterGames website.
+# CounterGames
+Welcome to the CounterGames website
